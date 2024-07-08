@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1307811_safety_0_safety_incidents">x_1307811_safety_0_safety_incidents</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>SAF</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 17:08:34</sys_created_on>
+        <sys_id>627c9c1d471302104cf129af016d430c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SAF</sys_name>
+        <sys_package display_value="Safety Incident" source="x_1307811_safety_0">286b58d9471302104cf129af016d4348</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Incident">286b58d9471302104cf129af016d4348</sys_scope>
+        <sys_update_name>sys_number_627c9c1d471302104cf129af016d430c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-08 17:08:34</sys_updated_on>
+    </sys_number>
+</record_update>
