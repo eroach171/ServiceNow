@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_field_attribute">
+    <ais_datasource_field_attribute action="INSERT_OR_UPDATE">
+        <attribute display_value="map_to">f734a634c7320010d1cfd9795cc26094</attribute>
+        <datasource display_value="Safety Incidents Table">2f332c15475302104cf129af016d4380</datasource>
+        <field>number</field>
+        <source>x_1307811_safety_0_safety_incidents</source>
+        <sys_class_name>ais_datasource_field_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 17:38:08</sys_created_on>
+        <sys_id>33332c15475302104cf129af016d43b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1307811_safety_0_safety_incidents.number</sys_name>
+        <sys_package display_value="Safety Incident" source="x_1307811_safety_0">286b58d9471302104cf129af016d4348</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Incident">286b58d9471302104cf129af016d4348</sys_scope>
+        <sys_update_name>ais_datasource_field_attribute_33332c15475302104cf129af016d43b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-08 17:38:08</sys_updated_on>
+        <value>title</value>
+    </ais_datasource_field_attribute>
+</record_update>

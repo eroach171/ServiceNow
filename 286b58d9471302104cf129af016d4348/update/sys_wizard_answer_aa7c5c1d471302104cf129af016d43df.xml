@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Safety Incidents</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Safety Incidents</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">da81893b8d020210d0ad51af4186635c</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 17:08:34</sys_created_on>
+        <sys_id>aa7c5c1d471302104cf129af016d43df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety Incidents</sys_name>
+        <sys_package display_value="Safety Incident" source="x_1307811_safety_0">286b58d9471302104cf129af016d4348</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Incident">286b58d9471302104cf129af016d4348</sys_scope>
+        <sys_update_name>sys_wizard_answer_aa7c5c1d471302104cf129af016d43df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-08 17:08:34</sys_updated_on>
+        <table/>
+        <target_url>x_1307811_safety_0_safety_incidents.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Safety Incidents">b7332c15475302104cf129af016d4389</ais_search_source>
+        <label>Safety Incidents</label>
+        <name>Safety Incidents</name>
+        <order>100</order>
+        <search_context_config display_value="Safety Incident AI Search Configuration">ed33a815c65302103a69360d9ea9b999</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 17:38:08</sys_created_on>
+        <sys_id>f3332c15475302104cf129af016d4398</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety Incidents</sys_name>
+        <sys_package display_value="Safety Incident" source="x_1307811_safety_0">286b58d9471302104cf129af016d4348</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Incident">286b58d9471302104cf129af016d4348</sys_scope>
+        <sys_update_name>sys_search_filter_f3332c15475302104cf129af016d4398</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-08 17:38:08</sys_updated_on>
+    </sys_search_filter>
+</record_update>

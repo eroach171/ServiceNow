@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for Safety Incident</description>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>safety-incident Search Profile</label>
+        <name>x_1307811_safety_0_fucxpco_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <qna_model_id/>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 17:38:01</sys_created_on>
+        <sys_id>2933a815f75302109d85c2a72151c8a3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>safety-incident Search Profile</sys_name>
+        <sys_package display_value="Safety Incident" source="x_1307811_safety_0">286b58d9471302104cf129af016d4348</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Incident">286b58d9471302104cf129af016d4348</sys_scope>
+        <sys_update_name>ais_search_profile_2933a815f75302109d85c2a72151c8a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-08 17:38:08</sys_updated_on>
+    </ais_search_profile>
+</record_update>
