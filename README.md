@@ -1,8 +1,8 @@
 ServiceNow mock-up applications
 
-URL:
+URL: https://github.com/eroach171/ServiceNow.git
 
-Access Token:
+Access Token: Github token
 
 Safety Incidents
 
